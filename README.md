@@ -16,7 +16,7 @@ In questo notebook troverete un'introduzione al reinforcement learning "pratica"
 ### Introduzione a OpenAI Gym
 In questo notebook trovere un introduzione all'uso della libreria OpenAI Gym
 
->File : [Introduzione_a_OpenAI_Gym_ITA.ipynb](https://github.com/MarioFiorino/Tutorial-Reinforcement-Learning-ITA-Python/blob/main/Introduzione_a_OpenAI_Gym_ITA.ipynb)
+>File : [Introduzione_OpenAI_Gym_ITA.ipynb](https://github.com/MarioFiorino/Tutorial-Reinforcement-Learning-ITA-Python/blob/main/Introduzione_OpenAI_Gym.ipynb)
 
 
 ### Reinforcement Learning - Fondamenti teorici
