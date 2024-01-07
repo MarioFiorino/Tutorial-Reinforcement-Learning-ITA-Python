@@ -22,7 +22,7 @@ In questo notebook trovere un introduzione all'uso della libreria OpenAI Gym
 ### Reinforcement Learning - Fondamenti teorici
 In questo notebook vengono presentate le basi teoriche del Reinforcement Learning, che affondano nella Programmazione Dinamica e nella Teoria del controllo ottimale. Sono inoltre presenti esempi applicativi
 
->File : [DOTO]()
+>File : [RL_Programmazione_Dinamica_ITA.ipynb](https://github.com/MarioFiorino/Tutorial-Reinforcement-Learning-ITA-Python/blob/main/RL_Programmazione_Dinamica_ITA.ipynb)
 
 ### Tris (Tic-Tac-Toe Game) e Q-learning 
 Sviluppo di un agente che impara a giocare e vincere a Tris tramite l'algoritmo del Q-learning
