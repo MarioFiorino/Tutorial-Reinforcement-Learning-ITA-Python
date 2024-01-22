@@ -24,6 +24,12 @@ In questo notebook vengono presentate le basi teoriche del Reinforcement Learnin
 
 >File : [Programmazione_Dinamica_ITA.ipynb](https://github.com/MarioFiorino/Tutorial-Reinforcement-Learning-ITA-Python/blob/main/Programmazione_Dinamica_ITA.ipynb)
 
+### Metodi Monte Carlo
+In questa sezione sono presentati una serie di notebook che trattano i metodi Monte Carlo.
+
+Parte 1 : Introduzione, Monte Carlo with Exploring Starts, On-policy first-visit Monte Carlo control
+>File : [Metodi_Monte_Carlo_RL_ITA](https://github.com/MarioFiorino/Tutorial-Reinforcement-Learning-ITA-Python/blob/main/Metodi_Monte_Carlo_RL_ITA.ipynb)
+
 ### Tris (Tic-Tac-Toe Game) e Q-learning 
 Sviluppo di un agente che impara a giocare e vincere a Tris tramite l'algoritmo del Q-learning
 
