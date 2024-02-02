@@ -30,6 +30,9 @@ In questa sezione sono presentati una serie di notebook che trattano i metodi Mo
 Parte 1 : Introduzione, Monte Carlo with Exploring Starts, On-policy first-visit Monte Carlo control
 >File : [Metodi_Monte_Carlo_RL_ITA](https://github.com/MarioFiorino/Tutorial-Reinforcement-Learning-ITA-Python/blob/main/Metodi_Monte_Carlo_RL_ITA.ipynb)
 
+Parte 2 : Incremental v.s Non-incremental, importance sampling, Off-Policy Monte Carlo Control.
+>File : [Off_policy_Monte_Carlo_ITA](https://github.com/MarioFiorino/Tutorial-Reinforcement-Learning-ITA-Python/blob/main/Off_policy_Monte_Carlo_ITA.ipynb)
+
 ### Tris (Tic-Tac-Toe Game) e Q-learning 
 Sviluppo di un agente che impara a giocare e vincere a Tris tramite l'algoritmo del Q-learning
 
