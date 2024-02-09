@@ -1,10 +1,10 @@
 # Tutorial-Reinforcement-Learning-ITA-Python
 
-In questa repository una collezione di tutorial sulle basi del Reinforcement Learning, sviluppati in Python, interamente in italiano.
+In questa repository un corso in italiano sulle basi del Reinforcement Learning, sviluppato in Python, attraverso la piattaforma di Google Colab ( o "Colaboratory")
 
 Tutti i contenuti sono rilasciati sotto licenza "MIT License". Vedi: https://choosealicense.com/licenses/ 
 
-In caso di pubblicazioni o distribuzioni, si richiede solo che l'autore sia citato nelle note bibliografiche.
+In caso di pubblicazioni o distribuzioni, si richiede solo che l'autore (Mario Fiorino) sia citato nelle note bibliografiche.
 
 ## Contenuti:
 
