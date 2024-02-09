@@ -11,7 +11,7 @@ In caso di pubblicazioni o distribuzioni, si richiede solo che l'autore sia cita
 ### Introduzione "sul campo" al Reinforcement Learning 
 In questo notebook troverete un'introduzione al reinforcement learning "pratica", che si concentra sulla comprensione e sull'applicazione pratica degli algoritmi di reinforcement learning tramite un esempio molto semplice ed accessibile a tutti coloro che si avvicinano per la prima volta a tale disciplina.
 
->File : [Intro_RL_ita_Fiorino.ipynb](https://github.com/MarioFiorino/Tutorial-Reinforcement-Learning-ITA-Python/blob/main/Intro_RL_ita_Fiorino.ipynb)
+>File : [Intro_sul_campo_RL_ita.ipynb](https://github.com/MarioFiorino/Tutorial-Reinforcement-Learning-ITA-Python/blob/main/Intro_sul%20campo_RL_ita.ipynb)
 
 ### Introduzione a OpenAI Gym
 In questo notebook trovere un introduzione all'uso della libreria OpenAI Gym
