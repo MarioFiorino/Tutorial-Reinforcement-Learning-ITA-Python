@@ -41,7 +41,7 @@ Parte 2 : Incremental v.s Non-incremental, Importance sampling, Off-Policy Monte
 
 
 ### Temporal Difference Learning (TD Learning)
-Il presente notebook offre un'introduzione al Temporal Difference Learning (TD Learning), in particolare sono trattati i seguenti argomenti: TD Prediction, Batch updating, SARSA one-step:On-policy TD Control, Q-learning one-step: Off-policy TD Control, Maximization Bias e Double Q-learning, n-step (o multi step) TD methods, SARSA n-step
+Il presente notebook offre un'introduzione al Temporal Difference Learning (TD Learning), in particolare sono trattati i seguenti argomenti: TD Prediction, Batch updating, one-step SARSA:On-policy TD Control, one-step Q-learning: Off-policy TD Control, Maximization Bias e Double Q-learning, n-step (o multi step) TD methods, n-step SARSA.
 
 >File : [Tutorial_Reinforcement_Learning.ipynb](https://github.com/MarioFiorino/Tutorial-Reinforcement-Learning-ITA-Python/blob/main/Temporal_difference_ITA.ipynb)
 
