@@ -13,6 +13,12 @@ In questo notebook troverete un'introduzione al reinforcement learning "pratica"
 
 >File : [Intro_sul_campo_RL_ita.ipynb](https://github.com/MarioFiorino/Tutorial-Reinforcement-Learning-ITA-Python/blob/main/Intro_sul%20campo_RL_ita.ipynb)
 
+
+Nel notebook sottostante è descritto lo sviluppo di un agente che impara a giocare e vincere a Tris (Tic-Tac-Toe Game) tramite un algoritmo di Q-learning.
+
+>File : [Tris_game_RL_ITA.ipynb](https://github.com/MarioFiorino/Tutorial-Reinforcement-Learning-ITA-Python/blob/main/Tris_game_RL_ITA.ipynb)
+
+
 ### Introduzione a OpenAI Gym
 In questo notebook trovere un introduzione all'uso della libreria OpenAI Gym
 
@@ -33,8 +39,11 @@ Parte 1 : Introduzione, Monte Carlo with Exploring Starts, On-policy first-visit
 Parte 2 : Incremental v.s Non-incremental, Importance sampling, Off-Policy Monte Carlo Control.
 >File : [Off_policy_Monte_Carlo_ITA](https://github.com/MarioFiorino/Tutorial-Reinforcement-Learning-ITA-Python/blob/main/Off_policy_Monte_Carlo_ITA.ipynb)
 
-### Tris (Tic-Tac-Toe Game) e Q-learning 
-Sviluppo di un agente che impara a giocare e vincere a Tris tramite l'algoritmo del Q-learning
 
->File : [Tris_game_RL_ITA.ipynb](https://github.com/MarioFiorino/Tutorial-Reinforcement-Learning-ITA-Python/blob/main/Tris_game_RL_ITA.ipynb)
+### Temporal Difference Learning (TD Learning)
+Il presente notebook offre un'introduzione al Temporal Difference Learning (TD Learning), in particolare sono trattati i seguenti argomenti: TD Prediction, Batch updating , SARSA one-step: On-policy TD Control , Q-learning one-step: Off-policy TD Control , Maximization Bias e Double Q-learning , n-step (o multi step) TD methods , SARSA n-step
+
+>File : [Tutorial_Reinforcement_Learning.ipynb](https://github.com/MarioFiorino/Tutorial-Reinforcement-Learning-ITA-Python/blob/main/Temporal_difference_ITA.ipynb)
+
+
 
