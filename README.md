@@ -9,7 +9,7 @@ In caso di pubblicazioni o distribuzioni, si richiede solo che l'autore (Mario F
 ## Contenuti:
 
 ### Introduzione "sul campo" al Reinforcement Learning 
-In questo notebook troverete un'introduzione al reinforcement learning "pratica", che si concentra sulla comprensione e sull'applicazione pratica degli algoritmi di reinforcement learning tramite un esempio molto semplice ed accessibile a tutti coloro che si avvicinano per la prima volta a tale disciplina.
+In questo notebook troverete un'introduzione al reinforcement learning "pratica"; cioè che si concentra sulla comprensione e sull'applicazione pratica degli algoritmi di reinforcement learning tramite un esempio molto semplice ed accessibile a tutti coloro che si avvicinano per la prima volta a tale disciplina.
 
 >File : [Intro_sul_campo_RL_ita.ipynb](https://github.com/MarioFiorino/Tutorial-Reinforcement-Learning-ITA-Python/blob/main/Intro_sul%20campo_RL_ita.ipynb)
 
@@ -46,7 +46,7 @@ Il presente notebook offre un'introduzione al Temporal Difference Learning (TD L
 >File : [Temporal difference ITA.ipynb](https://github.com/MarioFiorino/Tutorial-Reinforcement-Learning-ITA-Python/blob/main/Temporal_difference_ITA.ipynb)
 
 ### Dyna
-In questo notebook viene presentata  n'introduzione ai metodi Dyna, cercano di migliorare l'efficienza dell'apprendimento del RL integrando tecniche di pianificazione (planning).
+In questo notebook viene presentata un'introduzione ai metodi Dyna. Tali algoritmi cercano di migliorare l'efficienza dell'apprendimento del RL integrando tecniche di pianificazione (planning).
 
 >File : [Dyna ITA.ipynb](https://github.com/MarioFiorino/Tutorial-Reinforcement-Learning-ITA-Python/blob/main/Dyna_ITA.ipynb)
 
