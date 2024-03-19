@@ -51,4 +51,8 @@ In questo notebook viene presentata un'introduzione ai metodi Dyna. Tali algorit
 >File : [Dyna ITA.ipynb](https://github.com/MarioFiorino/Tutorial-Reinforcement-Learning-ITA-Python/blob/main/Dyna_ITA.ipynb)
 
 
+###  Introduzione al Deep Learning
 
+In questo notebook verrà fornita un'introduzione alle reti neurali, illustrando la matematica di base del loro funzionamento.
+
+>File : [Introduzione_al_Deep_Learning.ipynb](https://github.com/MarioFiorino/Tutorial-Reinforcement-Learning-ITA-Python/blob/main/Introduzione_al_Deep_Learning_ITA.ipynb)
