@@ -53,6 +53,14 @@ In questo notebook viene presentata un'introduzione ai metodi Dyna. Tali algorit
 
 ###  Introduzione al Deep Learning
 
-In questo notebook verrà fornita un'introduzione alle reti neurali, illustrando la matematica di base del loro funzionamento.
+In questo notebook verrà fornita un'introduzione alle reti neurali, illustrandone la matematica di base del loro funzionamento.
 
 >File : [Introduzione_al_Deep_Learning.ipynb](https://github.com/MarioFiorino/Tutorial-Reinforcement-Learning-ITA-Python/blob/main/Introduzione_al_Deep_Learning_ITA.ipynb)
+
+Nel notebook sottostante sarrà fornita un'introduzione, nei suoi aspetti basilari, ad una delle librerie di Machine Learning più usate: TensorFlow version 2 (sviluppata da Google).
+
+>File : [Introduzione_TensorFlow_v2_parte1_ITA.ipynb](https://github.com/MarioFiorino/Tutorial-Reinforcement-Learning-ITA-Python/blob/main/Introduzione_TensorFlow_v2_parte1_ITA.ipynb)
+
+Nel notebook sottostante verrà illustrato l'utilizzo di TensorFlow v2 per la costruzione e l'addestramento di reti neurali; successivamente la  stessa rete sarà implementata con la libreria Keras.
+
+>File : [Introduzione_TensorFlow_v2_parte2_ITA.ipynb]()
