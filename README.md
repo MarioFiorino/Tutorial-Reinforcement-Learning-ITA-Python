@@ -65,4 +65,4 @@ Nei notebook sottostanti verrà illustrato l'utilizzo di TensorFlow v2 per la co
 
 >File : [Introduzione_TensorFlow_v2_parte2_ITA.ipynb](https://github.com/MarioFiorino/Tutorial-Reinforcement-Learning-ITA-Python/blob/main/Introduzione_TensorFlow_v2_parte2_ITA.ipynb)
 
->>File : [Introduzione_Keras_ITA.ipynb](https://github.com/MarioFiorino/Tutorial-Reinforcement-Learning-ITA-Python/blob/main/Introduzione_Keras_ITA.ipynb)
+>File : [Introduzione_Keras_ITA.ipynb](https://github.com/MarioFiorino/Tutorial-Reinforcement-Learning-ITA-Python/blob/main/Introduzione_Keras_ITA.ipynb)
