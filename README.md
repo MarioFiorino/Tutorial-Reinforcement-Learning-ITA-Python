@@ -61,6 +61,8 @@ Nel notebook sottostante sarrà fornita un'introduzione, nei suoi aspetti basila
 
 >File : [Introduzione_TensorFlow_v2_parte1_ITA.ipynb](https://github.com/MarioFiorino/Tutorial-Reinforcement-Learning-ITA-Python/blob/main/Introduzione_TensorFlow_v2_parte1_ITA.ipynb)
 
-Nel notebook sottostante verrà illustrato l'utilizzo di TensorFlow v2 per la costruzione e l'addestramento di reti neurali; successivamente la  stessa rete sarà implementata con la libreria Keras.
+Nei notebook sottostanti verrà illustrato l'utilizzo di TensorFlow v2 per la costruzione e l'addestramento di reti neurali; successivamente la  stessa rete sarà implementata con la libreria Keras.
 
->File : [Introduzione_TensorFlow_v2_parte2_ITA.ipynb]()
+>File : [Introduzione_TensorFlow_v2_parte2_ITA.ipynb](https://github.com/MarioFiorino/Tutorial-Reinforcement-Learning-ITA-Python/blob/main/Introduzione_TensorFlow_v2_parte2_ITA.ipynb)
+
+>>File : [Introduzione_Keras_ITA.ipynb](https://github.com/MarioFiorino/Tutorial-Reinforcement-Learning-ITA-Python/blob/main/Introduzione_Keras_ITA.ipynb)
