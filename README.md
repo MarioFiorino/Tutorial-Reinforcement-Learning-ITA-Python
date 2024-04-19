@@ -70,6 +70,6 @@ Nei notebook sottostanti verrà illustrato l'utilizzo di TensorFlow v2 per la co
 
 Nel notebook successivo un introduzione a PyTorch
 
->File : [Introduzione_PyTorch_ITA.ipynb]()
+>File : [Introduzione_PyTorch_ITA.ipynb](https://github.com/MarioFiorino/Tutorial-Reinforcement-Learning-ITA-Python/blob/main/Introduzione_PyTorch_ITA.ipynb)
 
 
