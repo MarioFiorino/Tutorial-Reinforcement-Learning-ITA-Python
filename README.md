@@ -1,4 +1,4 @@
-# Tutorial-Reinforcement-Learning-ITA-Python
+# Corso-Reinforcement-Learning-ITA-Python
 
 In questa repository un corso in italiano sulle basi del Reinforcement Learning, sviluppato in Python, attraverso la piattaforma di Google Colab ( o "Colaboratory")
 
