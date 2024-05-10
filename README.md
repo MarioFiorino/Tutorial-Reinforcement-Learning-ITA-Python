@@ -1,4 +1,4 @@
-# Corso-Reinforcement-Learning-ITA-Python
+# Tutorial-Reinforcement-Learning-ITA-Python
 
 In questa repository un corso in italiano sulle basi del Reinforcement Learning, sviluppato in Python, attraverso la piattaforma di Google Colab ( o "Colaboratory")
 
@@ -67,9 +67,16 @@ Nei notebook sottostanti verrà illustrato l'utilizzo di TensorFlow v2 per la co
 
 >File : [Introduzione_Keras_ITA.ipynb](https://github.com/MarioFiorino/Tutorial-Reinforcement-Learning-ITA-Python/blob/main/Introduzione_Keras_ITA.ipynb)
 
+###  Value Function Approximation
 
-Nel notebook successivo un introduzione a PyTorch
+Con questo notebook entreremo nel dominio dell'approssimazione di funzioni nel contesto del Reinforcement learning, ovvero, nell'impiego di queste tecniche per stimare la funzione del valore degli stati. In particolare, svilupperemo l'algorimo Semi-Gradient one step Sarsa, con modellizzazione lineare, nel contesto Mountain Car (gymlibrary). Inoltre, daremo una prima occhiata alla tecnica di apprendimento per imitazione (Imitation Learning), di come questa permetta di migliorare i risultati dell'apprendimento osservando la strategia di un esperto.
 
->File : [Introduzione_PyTorch_ITA.ipynb](https://github.com/MarioFiorino/Tutorial-Reinforcement-Learning-ITA-Python/blob/main/Introduzione_PyTorch_ITA.ipynb)
+
+>File : [DD]()
+
+
+Nel notebook successivo lo sviluppo dell'algoritmo Deep Q Networks
+
+>File : [DA_FARE]()
 
 
