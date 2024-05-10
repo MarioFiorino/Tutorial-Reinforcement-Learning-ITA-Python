@@ -67,6 +67,11 @@ Nei notebook sottostanti verrà illustrato l'utilizzo di TensorFlow v2 per la co
 
 >File : [Introduzione_Keras_ITA.ipynb](https://github.com/MarioFiorino/Tutorial-Reinforcement-Learning-ITA-Python/blob/main/Introduzione_Keras_ITA.ipynb)
 
+Nel notebook successivo un'introduzione a PyTorch.
+
+>File : [Introduzione_PyTorch_ITA.ipynb](https://github.com/MarioFiorino/Tutorial-Reinforcement-Learning-ITA-Python/blob/main/Introduzione_PyTorch_ITA.ipynb)
+
+
 ###  Value Function Approximation
 
 In questo notebook vedremo l'impiego di tecniche di approssimazione di funzioni per stimare la funzione-valore degli stati. 
