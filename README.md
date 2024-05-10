@@ -69,10 +69,11 @@ Nei notebook sottostanti verrà illustrato l'utilizzo di TensorFlow v2 per la co
 
 ###  Value Function Approximation
 
-Con questo notebook entreremo nel dominio dell'approssimazione di funzioni nel contesto del Reinforcement learning, ovvero, nell'impiego di queste tecniche per stimare la funzione del valore degli stati. In particolare, svilupperemo l'algorimo Semi-Gradient one step Sarsa, con modellizzazione lineare, nel contesto Mountain Car (gymlibrary). Inoltre, daremo una prima occhiata alla tecnica di apprendimento per imitazione (Imitation Learning), di come questa permetta di migliorare i risultati dell'apprendimento osservando la strategia di un esperto.
+In questo notebook vedremo l'impiego di tecniche di approssimazione di funzioni per stimare la funzione-valore degli stati. 
+In particolare, svilupperemo l'algorimo Semi-Gradient one step SARSA, con modellizzazione lineare, nel contesto Mountain Car (gymlibrary). Inoltre, daremo una prima occhiata alla tecnica di apprendimento per imitazione (Imitation Learning): come, osservando la strategia di un esperto, possiamo migliorare i risultati dell'apprendimento.
 
 
->File : [DD]()
+>File : [Value_Function_Approximation_parte1_RL_ITA](https://github.com/MarioFiorino/Tutorial-Reinforcement-Learning-ITA-Python/blob/main/Value_Function_Approximation_parte1_RL_ITA.ipynb)
 
 
 Nel notebook successivo lo sviluppo dell'algoritmo Deep Q Networks
