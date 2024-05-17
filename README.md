@@ -86,5 +86,8 @@ Nel notebook successivo l'implementazione dell'algoritmo Deep Q Networks, contes
 >File : [Value_Function_Approximation_parte2_RL_ITA](https://github.com/MarioFiorino/Tutorial-Reinforcement-Learning-ITA-Python/blob/main/Value_Function_Approximation_parte2_RL_ITA.ipynb)
 
 
+### Policy Gradient
 
+Nel notebook sottostante ...
 
+>File : [DAFARE]()
