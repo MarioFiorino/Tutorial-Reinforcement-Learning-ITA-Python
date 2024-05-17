@@ -81,8 +81,10 @@ In particolare, svilupperemo l'algorimo Semi-Gradient one step SARSA, con modell
 >File : [Value_Function_Approximation_parte1_RL_ITA](https://github.com/MarioFiorino/Tutorial-Reinforcement-Learning-ITA-Python/blob/main/Value_Function_Approximation_parte1_RL_ITA.ipynb)
 
 
-Nel notebook successivo lo sviluppo dell'algoritmo Deep Q Networks
+Nel notebook successivo l'implementazione dell'algoritmo Deep Q Networks, contesto MsPacman(Atari), con Convolutional neural network(CNN).
 
->File : [DA_FARE]()
+>File : [Value_Function_Approximation_parte2_RL_ITA](https://github.com/MarioFiorino/Tutorial-Reinforcement-Learning-ITA-Python/blob/main/Value_Function_Approximation_parte2_RL_ITA.ipynb)
+
+
 
 
