@@ -88,6 +88,6 @@ Nel notebook successivo un'implementazione dell'algoritmo Deep Q Networks, conte
 
 ### Policy Gradient
 
-Nel notebook sottostante ...
+Nel notebook sottostante sono presentati i metodi policy-based, in particolare i metodi policy gradient. Troverete implementato un algoritmo Monte Carlo Policy Gradient nel contesto CartPole(Gym).
 
->File : [DAFARE]()
+>File : [Policy_Gradient_ITA](https://github.com/MarioFiorino/Tutorial-Reinforcement-Learning-ITA-Python/blob/main/Policy_Gradient__ITA.ipynb)
