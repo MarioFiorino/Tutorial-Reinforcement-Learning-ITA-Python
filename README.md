@@ -1,4 +1,4 @@
-# Tutorial-Reinforcement-Learning-ITA-Python
+# Reinforcement-Learning-ITA-Python
 
 In questa repository un corso in italiano sulle basi del Reinforcement Learning, sviluppato in Python, attraverso la piattaforma di Google Colab ( o "Colaboratory")
 
@@ -84,6 +84,12 @@ In particolare, svilupperemo l'algorimo Semi-Gradient one step SARSA, con modell
 Nel notebook successivo un'implementazione dell'algoritmo Deep Q Networks, contesto MsPacman(Atari), con Convolutional neural network(CNN).
 
 >File : [Value_Function_Approximation_parte2_RL_ITA](https://github.com/MarioFiorino/Tutorial-Reinforcement-Learning-ITA-Python/blob/main/Value_Function_Approximation_parte2_RL_ITA.ipynb)
+
+
+Nel notebook successivo, viene fornito un compendio sulle tecniche di Value Function Approximation, che si conclude con i suggerimenti di Sutton riguardo alla "Deadly Triad". Inoltre, viene mostrata la risoluzione del problema Cartpole (Gym) utilizzando prima un algoritmo DQN, poi Gradient Monte Carlo target control e infine un DQN con supporto imitation mode.
+
+>File : [Value_Function_Approximation_Compendio](https://github.com/MarioFiorino/Tutorial-Reinforcement-Learning-ITA-Python/blob/main/Value_Function_Approximation_Compendio.ipynb)
+
 
 
 ### Policy Gradient
