@@ -99,7 +99,7 @@ Nel notebook sottostante sono presentati i metodi policy-based, in particolare i
 >File : [Policy_Gradient_ITA](https://github.com/MarioFiorino/Tutorial-Reinforcement-Learning-ITA-Python/blob/main/Policy_Gradient__ITA.ipynb)
 
 
-Nel prossimo notebook troverete un'introduzione agli algoritmi Actor-Critic, una loro implementazione per la risoluzione dell'ambiente Pendulum; e un primo accenno alla tecnica di  Entropy regularization.
+Nel prossimo notebook troverete un'introduzione agli algoritmi Actor-Critic, una loro implementazione per la risoluzione dell'ambiente Pendulum(Gym); e un primo accenno alla tecnica di  Entropy regularization.
 
 >File : [Actor_Critic_ITA](https://github.com/MarioFiorino/Tutorial-Reinforcement-Learning-ITA-Python/blob/main/Actor_Critic_ITA.ipynb)
 
