@@ -91,6 +91,12 @@ Nel notebook successivo, viene fornito un compendio sulle tecniche di Value Func
 >File : [Value_Function_Approximation_Compendio](https://github.com/MarioFiorino/Tutorial-Reinforcement-Learning-ITA-Python/blob/main/Value_Function_Approximation_Compendio.ipynb)
 
 
+###  Eligibility Traces 
+
+Il notebook di seguito presenterà un'introduzione al meccanismo di eligibility trace.
+
+>File : [Eligibility_Traces_ITA.](https://github.com/MarioFiorino/Tutorial-Reinforcement-Learning-ITA-Python/blob/main/Eligibility_Traces_ITA.ipynb)
+
 
 ### Policy Gradient
 
