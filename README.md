@@ -1,6 +1,8 @@
 # Reinforcement-Learning-ITA-Python
 
-In questa repository un corso in italiano sulle basi del Reinforcement Learning, sviluppato in Python, attraverso la piattaforma di Google Colab ( o "Colaboratory")
+In questa repository un corso in italiano sulle basi del Reinforcement Learning, sviluppato in Python, attraverso la piattaforma di Google Colab.
+
+Non sono richieste conoscenze teoriche preliminari, se non nozioni pratiche di programmazione Python di base.
 
 Tutti i contenuti sono rilasciati sotto licenza "MIT License". Vedi: https://choosealicense.com/licenses/ 
 
@@ -100,7 +102,7 @@ Il notebook di seguito presenterà un'introduzione al meccanismo di eligibility 
 
 ### Policy Gradient
 
-Nel notebook sottostante sono presentati i metodi policy-based, in particolare i metodi policy gradient. Troverete implementato un algoritmo Monte Carlo Policy Gradient nel contesto CartPole(Gym).
+Nel notebook sottostante sono presentati i metodi policy-based, in particolare i metodi policy gradient. Questi metodi per funzionare necessitano di tre componenti: 1. una policy definita da parametri. 2. una funzione obiettivo da massimizzare. 3. un meotdo per aggiornare i parametri della policy. Troverete implementato una versione dell' algoritmo REINFORCE (noto anche come: Monte Carlo Policy Gradient) nel contesto CartPole(Gym).
 
 >File : [Policy_Gradient_ITA](https://github.com/MarioFiorino/Tutorial-Reinforcement-Learning-ITA-Python/blob/main/Policy_Gradient__ITA.ipynb)
 
