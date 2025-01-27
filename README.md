@@ -83,7 +83,7 @@ In particolare, svilupperemo l'algorimo Semi-Gradient one step SARSA, con modell
 >File : [Value_Function_Approximation_parte1_RL_ITA](https://github.com/MarioFiorino/Tutorial-Reinforcement-Learning-ITA-Python/blob/main/Value_Function_Approximation_parte1_RL_ITA.ipynb)
 
 
-Nel notebook successivo un'implementazione dell'algoritmo Deep Q Networks, contesto MsPacman(Atari), con Convolutional neural network(CNN).
+Nel notebook successivo un'implementazione dell'algoritmo Deep Q Networks, contesto MsPacman(Atari), con Convolutional neural network(CNN); ed un introduzione al concetto di: Experience Replay.
 
 >File : [Value_Function_Approximation_parte2_RL_ITA](https://github.com/MarioFiorino/Tutorial-Reinforcement-Learning-ITA-Python/blob/main/Value_Function_Approximation_parte2_RL_ITA.ipynb)
 
@@ -107,7 +107,7 @@ Nel notebook sottostante sono presentati i metodi policy-based, in particolare i
 >File : [Policy_Gradient_ITA](https://github.com/MarioFiorino/Tutorial-Reinforcement-Learning-ITA-Python/blob/main/Policy_Gradient__ITA.ipynb)
 
 
-Nel prossimo notebook troverete un'introduzione agli algoritmi Actor-Critic, una loro implementazione per la risoluzione dell'ambiente Pendulum(Gym); e un primo accenno alla tecnica di  Entropy regularization.
+Nel prossimo notebook troverete un'introduzione agli algoritmi Actor-Critic, una loro implementazione per la risoluzione dell'ambiente Pendulum(Gym); un approfondimento al dilemma "Varianza-Bias"; poi un introduzione ai concetti: Advantage Function, ed, Entropy Regularization.
 
 >File : [Actor_Critic_ITA](https://github.com/MarioFiorino/Tutorial-Reinforcement-Learning-ITA-Python/blob/main/Actor_Critic_ITA.ipynb)
 
