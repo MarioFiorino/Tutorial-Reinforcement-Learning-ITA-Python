@@ -107,7 +107,9 @@ Nel notebook sottostante sono presentati i metodi policy-based, in particolare i
 >File : [Policy_Gradient_ITA](https://github.com/MarioFiorino/Tutorial-Reinforcement-Learning-ITA-Python/blob/main/Policy_Gradient__ITA.ipynb)
 
 
-Nel prossimo notebook troverete un'introduzione agli algoritmi Actor-Critic, una loro implementazione per la risoluzione dell'ambiente Pendulum(Gym); un approfondimento al dilemma "Varianza-Bias"; poi un introduzione ai concetti: Advantage Function, ed, Entropy Regularization.
+Nei prossimi due notebook troverete un'introduzione agli algoritmi Actor-Critic, un approfondimento sul dilemma "Varianza-Bias", una panoramica sul concetto di Advantage Function, e di Entropy Regularization. Infine, verrà presentata un'implementazione per risolvere l'ambiente Pendulum(Gym).
 
->File : [Actor_Critic_ITA](https://github.com/MarioFiorino/Tutorial-Reinforcement-Learning-ITA-Python/blob/main/Actor_Critic_ITA.ipynb)
+>File : [Actor_Critic_teoria_ITA](https://github.com/MarioFiorino/Tutorial-Reinforcement-Learning-ITA-Python/blob/main/Actor_Critic_teoria_ITA.ipynb)
+
+>File : [Actor_Critic_code_teoria_ITA](https://github.com/MarioFiorino/Tutorial-Reinforcement-Learning-ITA-Python/blob/main/Actor_Critic_code_ITA.ipynb)
 
