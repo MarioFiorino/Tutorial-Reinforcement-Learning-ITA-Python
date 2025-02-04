@@ -111,5 +111,5 @@ Nei prossimi due notebook troverete un'introduzione agli algoritmi Actor-Critic,
 
 >File : [Actor_Critic_teoria_ITA](https://github.com/MarioFiorino/Tutorial-Reinforcement-Learning-ITA-Python/blob/main/Actor_Critic_teoria_ITA.ipynb)
 
->File : [Actor_Critic_code_teoria_ITA](https://github.com/MarioFiorino/Tutorial-Reinforcement-Learning-ITA-Python/blob/main/Actor_Critic_code_ITA.ipynb)
+>File : [Actor_Critic_code_ITA](https://github.com/MarioFiorino/Tutorial-Reinforcement-Learning-ITA-Python/blob/main/Actor_Critic_code_ITA.ipynb)
 
