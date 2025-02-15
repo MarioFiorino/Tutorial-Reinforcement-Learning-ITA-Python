@@ -102,12 +102,12 @@ Il notebook di seguito presenterà un'introduzione al meccanismo di eligibility 
 
 ### Policy Gradient
 
-Nel notebook sottostante sono presentati i metodi policy-based, in particolare i metodi policy gradient. Questi metodi per funzionare necessitano di tre componenti: 1. una policy definita da parametri. 2. una funzione obiettivo da massimizzare. 3. un meotdo per aggiornare i parametri della policy. Troverete implementato una versione dell' algoritmo REINFORCE (noto anche come: Monte Carlo Policy Gradient) nel contesto CartPole(Gym).
+Nel notebook sottostante sono presentati i metodi policy-based, in particolare i metodi policy gradient. Questi metodi per funzionare necessitano di tre componenti: 1. una policy definita da parametri. 2. una funzione obiettivo da massimizzare. 3. un meotdo per aggiornare i parametri della policy. Troverete implementato una versione dell' algoritmo REINFORCE (noto anche come: Monte Carlo Policy Gradient) nel contesto CartPole (Gym).
 
 >File : [Policy_Gradient_ITA](https://github.com/MarioFiorino/Tutorial-Reinforcement-Learning-ITA-Python/blob/main/Policy_Gradient__ITA.ipynb)
 
 
-Nei prossimi due notebook troverete un'introduzione agli algoritmi Actor-Critic, un approfondimento sul dilemma "Varianza-Bias", una panoramica sul concetto di Advantage Function, e di Entropy Regularization. Infine, verrà presentata un'implementazione per risolvere l'ambiente Pendulum(Gym).
+Nei prossimi due notebook troverete un'introduzione agli algoritmi Actor-Critic, un approfondimento sul dilemma "Varianza-Bias", una panoramica sul concetto di Advantage Function, e di Entropy Regularization. Infine, verrà presentata un'implementazione per risolvere l'ambiente Pendulum (Gym).
 
 >File : [Actor_Critic_teoria_ITA](https://github.com/MarioFiorino/Tutorial-Reinforcement-Learning-ITA-Python/blob/main/Actor_Critic_teoria_ITA.ipynb)
 
@@ -116,7 +116,7 @@ Nei prossimi due notebook troverete un'introduzione agli algoritmi Actor-Critic,
 
 ### Proximal Policy Optimization
 
-In questo notebook vengono presentati i metodi di Proximal Policy Optimization (PPO), con i relativi concetti di surrogate objective e trust region. Troverete l'implementazione dell'algoritmo Actor-Critic PPO-clip, utilizzato per risolvere l'ambiente Pendulum-v1.
+In questo notebook vengono presentati i metodi di Proximal Policy Optimization (PPO), con i relativi concetti di surrogate objective e trust region. Troverete l'implementazione dell'algoritmo Actor-Critic PPO-clip, utilizzato per risolvere l'ambiente Pendulum (Gym).
 
 >File : [Proximal_policy_optimization_ITA](https://github.com/MarioFiorino/Tutorial-Reinforcement-Learning-ITA-Python/blob/main/Proximal_policy_optimization_ITA.ipynb)
 
