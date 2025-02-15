@@ -114,8 +114,6 @@ Nei prossimi due notebook troverete un'introduzione agli algoritmi Actor-Critic,
 >File : [Actor_Critic_code_ITA](https://github.com/MarioFiorino/Tutorial-Reinforcement-Learning-ITA-Python/blob/main/Actor_Critic_code_ITA.ipynb)
 
 
-### Proximal Policy Optimization
-
 In questo notebook vengono presentati i metodi di Proximal Policy Optimization (PPO), con i relativi concetti di surrogate objective e trust region. Troverete l'implementazione dell'algoritmo Actor-Critic PPO-clip, utilizzato per risolvere l'ambiente Pendulum (Gym).
 
 >File : [Proximal_policy_optimization_ITA](https://github.com/MarioFiorino/Tutorial-Reinforcement-Learning-ITA-Python/blob/main/Proximal_policy_optimization_ITA.ipynb)
